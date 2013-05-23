@@ -1,6 +1,8 @@
 **** BEWARE ***** - This version of ARCH ARM Allstar gives corrupted sound when used with chan_usbradio on a Raspberry PI
 
-It is work in progress and includes YO3IIU's chan_alsaradio in an attempt to get better sound on the PI (It is work in progress….)
+It is work in progress and includes YO3IIU's chan_alsaradio in an attempt to get better sound on the PI 
+(It is work in progress….)
+Update....23/5/2013 Using an IMIC2 USB soudcard with its built in 8KHz rate sampling, its work fine with clean audio when used on chan_alsaradio for Allstar
 
 Allstar is an Amateur Radio repeater system based on an older version of Asterisk.
 This repo contains the dev code for allstar including the mods for Arch Linux such as;
